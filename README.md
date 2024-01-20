@@ -1,4 +1,4 @@
-# The four starts Edition of Shakespeare's plays 
+# The four stars Edition of Shakespeare's plays 
 ```
 import os
 
