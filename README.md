@@ -2,8 +2,8 @@
 ```
 import os
 
-directory = '/Users/tadi/tada/the-four-stars'  # Replace with the path to your directory
-output_file = 'merged.txt'       # Name of the output file
+directory = '/Users/tadi/tada/the-four-stars'  # Replace with YOUR path :)
+output_file = 'merged.txt'                     # Name of the output file
 
 with open(output_file, 'w') as outfile:
     for filename in os.listdir(directory):
